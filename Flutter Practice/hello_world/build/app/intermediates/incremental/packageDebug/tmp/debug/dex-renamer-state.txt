@@ -1,0 +1,4 @@
+#Thu Oct 01 21:01:52 EDT 2020
+base.0=C\:\\Users\\brewe\\Google Drive\\2. Projects\\3. Flutter_Development\\hello_world\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
